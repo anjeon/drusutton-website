@@ -187,7 +187,7 @@ cv:
         issuer: TESL Ontario
  #       icon: fa-solid fa-location-dot
 
-      - name: Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS: CORE-2022) 
+      - name: "Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS: CORE-2022)"
         date: 2023
         issuer: Panel on Research Ethics
  #       icon: fa-solid fa-tag
