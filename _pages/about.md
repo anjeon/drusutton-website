@@ -13,19 +13,16 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dru M. Sutton is a PhD candidate (ABD) in Applied Linguistics at Western University in London, Ontario. Specializing in second language vocabulary acquisition and language assessment, his research has been published in leading academic journals such as Studies in Second Language Acquisition. His research has been supported by the Canadian Government through the Social Sciences and Humanities Research Council (SSHRC) and the Government of Ontario through the Ontario Graduate Scholarship (OGS).
+In addition to his research, Dru is a dedicated educator who serves as a Course Instructor in the Master of Professional Education (TESOL) program at Western University. Bridging theoretical linguistics with practical application, Dru also develops high-stakes assessment items for the CELPIP exam. He holds OCELT and CELTA certifications and was awarded the Graduate Excellence in Teaching Award by Western University's Faculty of Education in 2025 for his teaching of the MPEd TESOL course _Teaching and Learning Vocabulary_.
