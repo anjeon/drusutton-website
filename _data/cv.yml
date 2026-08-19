@@ -61,7 +61,9 @@ cv:
         location: London, ON
         start_date: 2025
         end_date: 2025
-        summary: Graduate Student Teaching Assignment for _Teaching and Learning Vocabulary_ (GRADEDUC 9302).  Awarded Graduate Excellence in Teaching Award.
+        summary: Graduate Student Teaching Assignment for _Teaching and Learning Vocabulary_ (GRADEDUC 9302).  
+        highlights:
+           - Awarded Graduate Excellence in Teaching Award
 
       - company: English Path Toronto
         position: ESL Teacher (Supply)
@@ -149,7 +151,7 @@ cv:
  #       keywords:
     Peer Reviews:
       - name: Ad hoc Reviewer
-        keywords: ["CALICO Journal", "Applied Linguistics", "Studies in Second Language Acquisition", "RELC Journal", "Discover Education"]
+        summary: ["CALICO Journal", "Applied Linguistics", "Studies in Second Language Acquisition", "RELC Journal", "Discover Education"]
 
     Languages:
       - name: English
