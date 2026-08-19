@@ -10,13 +10,6 @@ cv:
     - network: LinkedIn
       username: linkedin.com/in/drumsutton
 
-  address:
-    street: 
-    city: London
-    region: Ontario
-    postalCode: 
-    countryCode: Canada
-
   sections:
     Education:
       - institution: Western University
@@ -51,7 +44,7 @@ cv:
       - company: Western University
         position: Course Instructor
         location: London, ON
-        start_date: 2026-09
+        start_date: 2026
         end_date: "present"
         summary: Graduate Student Teaching Assignment for _Teaching Reading and Writing Skills_ (GRADEDUC 9311)
         highlights:
@@ -61,8 +54,8 @@ cv:
       - company: Western University
         position: Course Instructor
         location: London, ON
-        start_date: 2025-09
-        end_date: 2025-12
+        start_date: 2025
+        end_date: 2025
         summary: Graduate Student Teaching Assignment for _Teaching and Learning Vocabulary_ (GRADEDUC 9302).  Awarded Graduate Excellence in Teaching Award.
 
       - company: English Path Toronto
@@ -74,22 +67,22 @@ cv:
       - company: Western University
         position: Teaching Assistant
         location: London, ON
-        start_date: 2024-09
-        end_date: 2025-04
+        start_date: 2024
+        end_date: 2025
         summary: Graduate Teaching Assistant for _Supporting English Language Learners_ (EDUC 5439)
 
     Research Experience:
       - company: Western University
         position: Research Assistant (Work Study)
         location: London, ON
-        start_date: 2020-01
-        end_date: 2021-04
+        start_date: 2020
+        end_date: 2021
 
       - company: Western University
         position: Undergraduate Research Assistant
         location: London, ON
-        start_date: 2020-05
-        end_date: 2020-08
+        start_date: 2020
+        end_date: 2020
 
     Other Relevant Experience:
       - company: Prometric 
@@ -156,12 +149,9 @@ cv:
  #       level: 
  #       icon: 
  #       keywords:
-    Peer Reviews:
-      - name: CALICO Journal
-      - name: Applied Linguistics 
-      - name: Studies in Second Language Acquisition 
-      - name: RELC Journal 
-      - name: Discover Education
+Peer Reviews:
+      - name: Ad hoc Reviewer
+        keywords: ["CALICO Journal", "Applied Linguistics", "Studies in Second Language Acquisition", "RELC Journal", "Discover Education"]
 
     Languages:
       - name: English
