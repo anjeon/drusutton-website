@@ -167,7 +167,14 @@
   "projects": [
     {
       "name": "Ad hoc Reviewer",
-      "description": "CALICO Journal, Applied Linguistics, Studies in Second Language Acquisition, RELC Journal, Discover Education"
+      "summary": "Peer reviewer for the following journals:",
+      "highlights": [
+        "CALICO Journal",
+        "Applied Linguistics",
+        "Studies in Second Language Acquisition",
+        "RELC Journal",
+        "Discover Education"
+      ]
     }
   ]
 }
