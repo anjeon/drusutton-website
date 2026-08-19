@@ -1,221 +1,173 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Dru Sutton",
+    "label": "PhD Candidate",
+    "email": "dsutton6@uwo.ca",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "London",
+      "region": "Ontario",
+      "countryCode": "CA"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "X",
+        "username": "sutton_dru"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "linkedin.com/in/drumsutton"
+      }
+    ]
   },
+  "education": [
+    {
+      "institution": "Western University",
+      "area": "Applied Linguistics",
+      "studyType": "PhD",
+      "startDate": "2023",
+      "endDate": "Present",
+      "courses": [
+        "PhD Seminar, Teaching Reading & Writing Skills, Experimental Design and Data Analysis, Second Language Assessment, Teaching Listening & Speaking"
+      ]
+    },
+    {
+      "institution": "Western University",
+      "area": "Applied Linguistics",
+      "studyType": "MA",
+      "startDate": "2021",
+      "endDate": "2023"
+    },
+    {
+      "institution": "Western University",
+      "area": "Linguistics",
+      "studyType": "BA (Hons.)",
+      "startDate": "2018",
+      "endDate": "2021"
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Western University",
+      "position": "Course Instructor (Teaching)",
+      "startDate": "2026-09",
+      "endDate": "Present",
+      "summary": "Graduate Student Teaching Assignment for Teaching Reading and Writing Skills (GRADEDUC 9311)"
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Western University",
+      "position": "Course Instructor (Teaching)",
+      "startDate": "2025-09",
+      "endDate": "2025-12",
+      "summary": "Graduate Student Teaching Assignment for Teaching and Learning Vocabulary (GRADEDUC 9302). Awarded Graduate Excellence in Teaching Award."
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "English Path Toronto",
+      "position": "ESL Teacher (Supply)",
+      "startDate": "2025",
+      "endDate": "2026"
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Western University",
+      "position": "Teaching Assistant",
+      "startDate": "2024-09",
+      "endDate": "2025-04",
+      "summary": "Graduate Teaching Assistant for Supporting English Language Learners (EDUC 5439)"
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Western University",
+      "position": "Research Assistant (Work Study)",
+      "startDate": "2020-01",
+      "endDate": "2021-04"
+    },
+    {
+      "name": "Western University",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2020-05",
+      "endDate": "2020-08"
+    },
+    {
+      "name": "Prometric",
+      "position": "CELPIP Item Writer",
+      "startDate": "2025",
+      "endDate": "Present"
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "organization": "London Public Library",
+      "position": "ESL Tutor",
+      "startDate": "2020",
+      "endDate": "2021"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Ontario Graduate Scholarship (OGS) (Government of Ontario)",
+      "date": "2026, 2023, 2022"
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Canada Graduate Scholarship – Master’s (SSHRC)",
+      "date": "2022"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "title": "Curriculum Studies and Studies in Applied Linguistics (CSSAL) Entrance Scholarship",
+      "date": "2021"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Uncaptioned audiovisual input and second language learning: Evidence from a meta-analysis",
+      "publisher": "Second Language Research Forum",
+      "releaseDate": "2026"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "The effects of listening to songs outside the classroom on second language vocabulary learning",
+      "publisher": "British Association of Applied Linguistics Vocab SIG",
+      "releaseDate": "2026"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "The effects of audiovisual input on second language learning: A meta-analysis",
+      "publisher": "Studies in Second Language Acquisition",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1017/S0272263126101612",
+      "summary": "Abstract: This meta-analysis investigates the contributions of viewing audiovisual input on second language (L2) learning. We calculated 75 effect sizes from 56 experiments (n = 1954) and assessed the effects of audiovisual input on language learning using a within-group (pre-post) meta-analytic approach. Fifteen moderator variables were included in the analysis. Results showed that a) there was a small effect of audiovisual input on L2 learning (g = .89); b) no differences were found between the effects of viewing audiovisual input on different areas of L2 learning (vocabulary, grammar, pronunciation, speaking, listening proficiency); and c) video category had a significant impact on L2 learning with entertainment-focused videos (e.g., TV series, movies, and mixed videos) yielding lower effects than educational videos (e.g., TED Talks, documentaries, and language-focused)."
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "fluency": "Native speaker"
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "language": "Korean",
+      "fluency": "Conversationally Fluent (TOPIK 4)"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Beginner"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Ontario Certified English Language Teacher (OCELT)",
+      "date": "2024",
+      "issuer": "TESL Ontario"
+    },
+    {
+      "name": "Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS: CORE-2022)",
+      "date": "2023",
+      "issuer": "Panel on Research Ethics"
+    },
+    {
+      "name": "Certificate in Teaching English to Speakers of Other Languages (CELTA)",
+      "date": "2021",
+      "issuer": "Cambridge University Press & Assessment"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Ad hoc Reviewer",
+      "description": "CALICO Journal, Applied Linguistics, Studies in Second Language Acquisition, RELC Journal, Discover Education"
     }
   ]
 }
