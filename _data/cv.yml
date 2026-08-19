@@ -40,7 +40,7 @@ cv:
         start_date: 2018
         end_date: 2021
 
-    Teaching Experience:
+    Experience:
       - company: Western University
         position: Course Instructor
         location: London, ON
@@ -50,7 +50,12 @@ cv:
         highlights:
 #          - 
 #          -
-
+      - company: Prometric 
+        position: CELPIP Item Writer
+        location: Remote
+        start_date: 2025
+        end_date: "present"
+        
       - company: Western University
         position: Course Instructor
         location: London, ON
@@ -71,7 +76,6 @@ cv:
         end_date: 2025
         summary: Graduate Teaching Assistant for _Supporting English Language Learners_ (EDUC 5439)
 
-    Research Experience:
       - company: Western University
         position: Research Assistant (Work Study)
         location: London, ON
@@ -84,12 +88,6 @@ cv:
         start_date: 2020
         end_date: 2020
 
-    Other Relevant Experience:
-      - company: Prometric 
-        position: CELPIP Item Writer
-        location: Remote
-        start_date: 2025
-        end_date: "present"
 
     Volunteer:
       - company: London Public Library
