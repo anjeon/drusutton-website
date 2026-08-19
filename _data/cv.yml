@@ -24,7 +24,7 @@ cv:
         area: Applied Linguistics
         studyType: PhD
         start_date: 2023
-        end_date: "Present"
+        end_date: "present"
         score: ""
         courses: "PhD Seminar, Teaching Reading & Writing Skills, Experimental Design and Data Analysis, Second Language Assessment, Teaching Listening & Speaking"
         highlights:
@@ -52,7 +52,7 @@ cv:
         position: Course Instructor
         location: London, ON
         start_date: 2026-09
-        end_date: "Present"
+        end_date: "present"
         summary: Graduate Student Teaching Assignment for _Teaching Reading and Writing Skills_ (GRADEDUC 9311)
         highlights:
 #          - 
@@ -96,7 +96,7 @@ cv:
         position: CELPIP Item Writer
         location: Remote
         start_date: 2025
-        end_date: "Present"
+        end_date: "present"
 
     Volunteer:
       - company: London Public Library
