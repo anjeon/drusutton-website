@@ -3,8 +3,6 @@ cv:
   label: PhD Candidate
   email: dsutton6@uwo.ca
   location: London, ON, Canada
-  image: ""
-  summary: 
 
   social_networks:
     - network: X
@@ -23,11 +21,10 @@ cv:
     Education:
       - institution: Western University
         location: London, Ontario
-        url: https://uwo.ca/
         area: Applied Linguistics
         studyType: PhD
         start_date: 2023
-        end_date: 2027
+        end_date: "Present"
         score: ""
         courses: "PhD Seminar, Teaching Reading & Writing Skills, Experimental Design and Data Analysis, Second Language Assessment, Teaching Listening & Speaking"
         highlights:
@@ -54,8 +51,8 @@ cv:
       - company: Western University
         position: Course Instructor
         location: London, ON
-        start_date: 09-2026
-        end_date: Present
+        start_date: 2026-09
+        end_date: "Present"
         summary: Graduate Student Teaching Assignment for _Teaching Reading and Writing Skills_ (GRADEDUC 9311)
         highlights:
 #          - 
@@ -64,8 +61,8 @@ cv:
       - company: Western University
         position: Course Instructor
         location: London, ON
-        start_date: 09-2025
-        end_date: 12-2025
+        start_date: 2025-09
+        end_date: 2025-12
         summary: Graduate Student Teaching Assignment for _Teaching and Learning Vocabulary_ (GRADEDUC 9302).  Awarded Graduate Excellence in Teaching Award.
 
       - company: English Path Toronto
@@ -77,29 +74,29 @@ cv:
       - company: Western University
         position: Teaching Assistant
         location: London, ON
-        start_date: 09-2024
-        end_date: 04-2025
+        start_date: 2024-09
+        end_date: 2025-04
         summary: Graduate Teaching Assistant for _Supporting English Language Learners_ (EDUC 5439)
 
     Research Experience:
       - company: Western University
         position: Research Assistant (Work Study)
         location: London, ON
-        start_date: 01-2020
-        end_date: 04-2021
+        start_date: 2020-01
+        end_date: 2021-04
 
       - company: Western University
         position: Undergraduate Research Assistant
         location: London, ON
-        start_date: 05-2020
-        end_date: 08-2020
+        start_date: 2020-05
+        end_date: 2020-08
 
     Other Relevant Experience:
       - company: Prometric 
         position: CELPIP Item Writer
         location: Remote
         start_date: 2025
-        end_date: Present
+        end_date: "Present"
 
     Volunteer:
       - company: London Public Library
