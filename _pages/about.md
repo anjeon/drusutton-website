@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "PhD Candidate at <a href='https://uwo.ca'>Western University</a>. London, Ontario, Canada"
 
